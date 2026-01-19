@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootSnsApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringbootSnsApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(SpringbootSnsApplication.class, args);
+  }
 }
